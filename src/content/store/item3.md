@@ -1,6 +1,6 @@
 ---
-title: "Demo Item 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Movie Ratings Prediction Model"
+description: "Kaggle competition sponsored by Google; utilized Singular Value Decomposition, Gradient Boosting, One-Hot Encoding achieving low RMSE score of 0.17"
 custom_link_label: "Custom Btn"
 custom_link: "https://customurl.com/"
 updatedDate: "Sep 11 2022"
